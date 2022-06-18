@@ -14,6 +14,7 @@ NStore V1 Guns, Cars, Armor, Skins DIALOGSbugs, this was created when I was lear
 _____Sstore2.pwn_____
 S-Store Version 2.0 (Formerly NStore) - Dialog Store System
 (Created in 2016 - 5,000 Lines of code more than NStore V1)
+
 Features
 - Guns
 - Health
