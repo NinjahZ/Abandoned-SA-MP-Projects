@@ -28,6 +28,7 @@ Features
 Commands:
 /storehelp
 /store
+
 Testing Commands:
 /resetstats
 /money
