@@ -6,3 +6,7 @@ _____SniperWar.pwn_____
 ini Saving System
 Admin System from AreaX, credits where due.
 Unfinished project, Team Switching is Bugged, there will be more bugs, this was created when I was learning to code Pawn.
+
+
+_____Nstore.pwn_____
+NStore V1 Guns, Cars, Armor, Skins DIALOGSbugs, this was created when I was learning to code Pawn, also around the same time as working on SniperWar.
